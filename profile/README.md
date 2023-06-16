@@ -2,7 +2,7 @@
 #### 우리는 모공모공, 함께 **Swift**를 공부하며 같이 성장하기 위해서 모였습니다.  
 
 
-![]([https://developer.apple.com/wwdc23/hero/endframes/p3-endframe-large_2x.jpg](https://developer.apple.com/home/images/hero-wwdc23/phase3-x248at/wwdc23-hero-large-phase3_2x.webp))  
+![]([https://developer.apple.com/wwdc23/hero/endframes/p3-endframe-large_2x.jpg](https://developer.apple.com/home/images/hero-wwdc23/phase3-x248at/wwdc23-hero-large-phase3_2x.webp)
 <br>
 </br>
 
