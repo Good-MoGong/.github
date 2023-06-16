@@ -1,12 +1,20 @@
-## Hi there 👋
+# 모공모공
+#### 우리는 모공모공, 함께 **Swift**를 공부하며 같이 성장하기 위해서 모였습니다.  
 
-<!--
 
-**Here are some ideas to get you started:**
+![]([https://developer.apple.com/wwdc23/hero/endframes/p3-endframe-large_2x.jpg](https://developer.apple.com/home/images/hero-wwdc23/phase3-x248at/wwdc23-hero-large-phase3_2x.webp))  
+<br>
+</br>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 스터디원 소개
+|  | Name | GitHUB | 기타 |
+|---|---|---| ---| 
+|1| 린다 🍎 | [syss220211](https://github.com/syss220211) | [블로그](https://sy-catbutler.tistory.com/) |
+|2|---|---|---|
+|3|---|---|---|
+|4|---|---|---|
+|5|---|---|---|
+|2|---|---|---|
+
+
+
