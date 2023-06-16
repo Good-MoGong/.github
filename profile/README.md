@@ -11,7 +11,7 @@
 |---|---|---| ---| 
 |1| 린다 🍎 | [syss220211](https://github.com/syss220211) | [블로그](https://sy-catbutler.tistory.com/) |
 |2| 욤찌 🐼 |---|---|
-|3| 민궝 🎃 |[mingeunqq](https://github.com/mingeunqq)|[블로그](https://todayapp.tistory.com/)|
+|3| 민궝 🎃 |[mingeunqq](https://github.com/mingeunchoqq)|[블로그](https://todayapp.tistory.com/)|
 |4|---|---|---|
 |5|---|---|---|
 |2|---|---|---|
