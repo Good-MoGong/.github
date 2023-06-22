@@ -10,11 +10,10 @@
 |  | Name | GitHUB | 기타 |
 |---|---|---| ---| 
 |1| 린다 🍎 | [syss220211](https://github.com/syss220211) | [블로그](https://sy-catbutler.tistory.com/) |
-|2| 욤찌 🐼 |---|---|
+|2| 욤찌 🐼 |[yyomzzi](https://github.com/yyomzzi)|[블로그]()|
 |3| 민궝 🎃 |[mingeunqq](https://github.com/mingeunchoqq)|[블로그](https://todayapp.tistory.com/)|
 |4| 오즈 🏄🏻 |[OzDevelop](https://github.com/OzDevelop)|[블로그](https://ozdevelop.github.io/)|
 |5| 제이드 💎 |[a-jb97](https://github.com/a-jb97)|[블로그](https://devstudy-archive.tistory.com/)|
-|2|---|---|---|
 
 
 
